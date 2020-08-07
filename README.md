@@ -8,4 +8,4 @@
 - 🌱 I’m currently learning more about Algorithms and Data Structures
 - 🥅 2020 Goals: Passing all my exams🤣
 - ❤️ Loving Java
-- ⚡ Fun fact: I'm running 300km every month
+- ⚡ Fun fact: I'm running 250km every month
